@@ -12,5 +12,5 @@ I'm a canadian hackerman who's been mucking about with code stuff since getting 
 - c++ coding
 - game making in bevy game engine
 
-📫 How to reach me
+# 📫 How to reach me
 - Discord: `segfault1337`
